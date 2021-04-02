@@ -37,7 +37,7 @@ monitors:
     expectStatus: 200
     
   - id: wordlists.dev
-    name: The best collections of wordlists
-    url: 'https://wordlists.dev/'
+    name: www.wordlists.dev
+    url: 'https://www.wordlists.dev/'
     method: GET
     expectStatus: 200
