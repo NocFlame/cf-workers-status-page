@@ -41,3 +41,9 @@ monitors:
     url: 'https://www.wordlists.dev/'
     method: GET
     expectStatus: 200
+    
+  #- id: files.wordlists.dev
+  #  name: files.wordlists.dev
+  #  url: 'https://files.wordlists.dev/'
+  #  method: GET
+  #  expectStatus: 200
