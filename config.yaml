@@ -35,3 +35,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+    
+  - id: wordlists.dev
+    name: The best collections of wordlists
+    url: 'https://wordlists.dev/'
+    method: GET
+    expectStatus: 200
