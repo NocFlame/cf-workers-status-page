@@ -55,7 +55,7 @@ monitors:
     expectStatus: 200
   
   - id: wordlists.assetnote
-    name: wordlists.assetnote.com
+    name: wordlists.assetnote.io
     url: 'http://wordlists.assetnote.io/'
     method: GET
     expectStatus: 200
