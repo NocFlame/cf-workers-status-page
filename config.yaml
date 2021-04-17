@@ -42,8 +42,20 @@ monitors:
     method: GET
     expectStatus: 200
     
-  #- id: files.wordlists.dev
-  #  name: files.wordlists.dev
-  #  url: 'https://files.wordlists.dev/'
-  #  method: GET
-  #  expectStatus: 200
+  - id: files.wordlists.dev
+    name: files.wordlists.dev
+    url: 'https://files.wordlists.dev/'
+    method: GET
+    expectStatus: 200
+
+  - id: weakpass.com
+    name: weakpass.com
+    url: 'https://weakpass.com/'
+    method: GET
+    expectStatus: 200
+  
+  - id: wordlists.assetnote
+    name: wordlists.assetnote.com
+    url: 'http://wordlists.assetnote.io/'
+    method: GET
+    expectStatus: 200
