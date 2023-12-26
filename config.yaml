@@ -67,3 +67,9 @@ monitors:
     url: 'https://hashmob.net/'
     method: GET
     expectStatus: 200
+
+  - id: hashmob.wordlists.dev
+    name: hashmob.wordlists.dev
+    url: 'https://hashmob.wordlists.dev/hashmob/'
+    method: GET
+    expectStatus: 200
